@@ -1,0 +1,14 @@
+[project]
+name = "agenticengineering-langchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain",
+    "langchain-openai",
+    "langchain-groq",
+    "python-dotenv",
+    "langchain-google-genai",
+    "langchain_community",
+]
